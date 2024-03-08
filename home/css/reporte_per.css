@@ -1,0 +1,10 @@
+#Table td {
+  white-space: nowrap;
+}
+.grafica-view{
+   border-radius: 25px;
+   background: linear-gradient(145deg, #f0f0f0, #cacaca);
+   box-shadow:  27px 27px 53px #a6a6a6,
+   -27px -27px 53px #ffffff;
+   padding: 10px;
+}

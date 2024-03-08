@@ -1,0 +1,15 @@
+.modal-ingreso{
+	background-color: rgba(255,255,255);
+	border-radius: 18px;
+}
+#ingreso-Backdrop{
+    backdrop-filter: blur(5px); /* Efecto borroso */
+}
+
+ .ingreso-div{
+     color: #090909;
+     padding: 0.7em 1.7em;
+     border-radius: 0.5em;
+     background: rgba(232, 232, 232, 0.5);
+     box-shadow: 6px 6px 18px #c5c5c5, -6px -6px 18px #ffffff;
+}
